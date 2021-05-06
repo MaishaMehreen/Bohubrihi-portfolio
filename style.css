@@ -1,0 +1,69 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-image: linear-gradient(to right,#A3D2CA, #F4EEE8)
+}
+.banner-column{
+    background-color: #5F939A;
+}
+.navbar-container{
+    top: 0;
+    background-color: #272B38;
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), #7952B3)
+}
+.peach{
+    color: #FB857E ;
+
+}
+.education-container{
+    background-image: linear-gradient(to right,#F6E6E4, #F4EEE8)
+}
+.circle{
+    background-color: #FB857E;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-image: linear-gradient(to right,#8FD6E1, #1597BB)
+
+}
+.gallary-container{
+    background-image: linear-gradient(to right,#8FD6E1, #1597BB)
+}
+.form-container{
+    background-image: linear-gradient(to right,#02475E, #5B6D5B)
+}
+.inner-form{
+     background-color: #8E9775;
+}
+.pink{
+    background-color: #FB857E;
+}
+.pink:hover{
+  color: black!important;
+}
+.footer{
+    background-color :#2BAAD8;
+
+}
+.icon-circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    color: #2BAAD8;
+    text-align: center;
+    
+}
+.icon-circle:hover{
+    color: white;
+    background-color: #02475E;
+}
